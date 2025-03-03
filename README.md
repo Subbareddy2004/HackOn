@@ -2,6 +2,8 @@
 
 A full-stack event management application built with modern web technologies. This project consists of a React-based frontend and a Node.js backend, providing a complete solution for managing events, registrations, and attendees.
 
+🌐 **Live Demo:** [https://hackon1.vercel.app/](https://hackon1.vercel.app/)
+
 ## 📸 Screenshots & Demo
 
 Here's a visual overview of the Event Management Software:
