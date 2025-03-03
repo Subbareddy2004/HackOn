@@ -8,31 +8,31 @@ Here's a visual overview of the Event Management Software:
 
 ### Landing Page
 
-![Landing Page](demo/Screenshot%202025-03-03%20181458.png)
+![Landing Page](Demo/Screenshot%202025-03-03%20181458.png)
 
 ### Event Creation
 
-![Event Creation](demo/Screenshot%202025-03-03%20181521.png)
+![Event Creation](Demo/Screenshot%202025-03-03%20181521.png)
 
 ### Event Listing
 
-![Event Listing](demo/Screenshot%202025-03-03%20181541.png)
+![Event Listing](Demo/Screenshot%202025-03-03%20181541.png)
 
 ### Event Details
 
-![Event Details](demo/Screenshot%202025-03-03%20181556.png)
+![Event Details](Demo/Screenshot%202025-03-03%20181556.png)
 
 ### Registration Process
 
-![Registration](demo/Screenshot%202025-03-03%20181614.png)
+![Registration](Demo/Screenshot%202025-03-03%20181614.png)
 
 ### User Dashboard
 
-![Dashboard](demo/Screenshot%202025-03-03%20181629.png)
+![Dashboard](Demo/Screenshot%202025-03-03%20181629.png)
 
 ### Admin Panel
 
-![Admin Panel](demo/Screenshot%202025-03-03%20181701.png)
+![Admin Panel](Demo/Screenshot%202025-03-03%20181701.png)
 
 ## 🚀 Features
 
